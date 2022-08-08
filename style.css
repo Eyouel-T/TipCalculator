@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-image: linear-gradient(to right, blue , white);
+}
+
+.main{
+
+    background-image: linear-gradient(to left, blue , white);
+    max-width: 60%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid brown;
+    border-radius: 5px;
+    box-shadow: black;
+    padding-bottom: 2%;
+}
